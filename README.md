@@ -10,6 +10,10 @@ The NCS870-Fall2023-Team1 project consists of three sub-projects, which are: 1. 
 
 [NCS870-Fall2023-Team1-Python](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python)
 
+# Architecture
+
+![image](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python/assets/129556780/2c82920d-cd53-4b74-afb5-42eab4468ce9)
+
 # Incs870-web
 Based on popular front-end frameworks including: Vue, JavaScript, Html, Css, Echarts, Vuex, Axios, etc. On this basis, complete the real-time dynamic display of the analysis data at the back end of 870 project. The developed intrusion detection models are trained and tested using Border Gateway Protocol (BGP) datasets
 # Launching Incs870-web
